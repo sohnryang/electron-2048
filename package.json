@@ -1,0 +1,24 @@
+{
+  "name": "electron-2048",
+  "version": "0.0.0-dev",
+  "description": "Electron version of 2048 - with same codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohnryang/electron-2048.git"
+  },
+  "keywords": [
+    "electron",
+    "2048",
+    "javascript"
+  ],
+  "author": "sohnryang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohnryang/electron-2048/issues"
+  },
+  "homepage": "https://github.com/sohnryang/electron-2048#readme"
+}

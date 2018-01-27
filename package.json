@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sohnryang/electron-2048/issues"
   },
-  "homepage": "https://github.com/sohnryang/electron-2048#readme"
+  "homepage": "https://github.com/sohnryang/electron-2048#readme",
+  "dependencies": {
+    "electron": "^1.7.11"
+  }
 }

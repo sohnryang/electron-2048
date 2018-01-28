@@ -1,4 +1,4 @@
-function KeyboardInputManager() {
+export default function KeyboardInputManager() {
   this.events = {};
 
   if (window.navigator.msPointerEnabled) {

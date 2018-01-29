@@ -1,0 +1,9 @@
+version: 0.0.0-dev
+files:
+  - url: electron-2048-setup-0.0.0-dev.exe
+    sha512: Gha44vOTS6mpcMjuvCkX36cNkStsqrb7f2DV5SHX0znlxYlc8bwSW5iQLEcWmHtMGPVGd49QzBD1b7JdYxsVbQ==
+    size: 37096056
+path: electron-2048-setup-0.0.0-dev.exe
+sha512: Gha44vOTS6mpcMjuvCkX36cNkStsqrb7f2DV5SHX0znlxYlc8bwSW5iQLEcWmHtMGPVGd49QzBD1b7JdYxsVbQ==
+sha2: 17901eb5390118bff4c0a638e6ecc635ba881970cd1d3b539b2d742928baf96f
+releaseDate: '2018-01-29T12:26:53.739Z'

@@ -8,6 +8,7 @@
     <body>
         <div class="container">
             <div class="heading">
+                <h1 class="title">2048<sup>e</sup></h1>
                 <div class="scores-container">
                     <div class="score-container">0</div>
                     <div class="best-container">0</div>
@@ -60,9 +61,16 @@
                 </div>
             </div>
         </div>
-
+        <script src="third-party/keyboard_input_manager.js"></script>
+        <script src="third-party/html_actuator.js"></script>
+        <script src="third-party/grid.js"></script>
+        <script src="third-party/tile.js"></script>
+        <script src="third-party/local_storage_manager.js"></script>
+        <script src="third-party/game_manager.js"></script>
         <script>
-require('./renderer.js');
+            window.requestAnimationFrame(() => {
+                new GameManager(4, KeyboardInputManager, HTMLActuator, LocalStorageManager);
+            });
         </script>
     </body>
 </html>

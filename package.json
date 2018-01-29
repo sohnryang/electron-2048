@@ -23,5 +23,8 @@
   "homepage": "https://github.com/sohnryang/electron-2048#readme",
   "dependencies": {
     "electron": "^1.7.11"
+  },
+  "devDependencies": {
+    "electron-builder": "^19.55.2"
   }
 }

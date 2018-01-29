@@ -1,0 +1,9 @@
+version: 0.0.0-dev
+files:
+  - url: electron-2048-0.0.0-dev-x86_64.AppImage
+    sha512: CmMnAbPN0ct5I5gE9Ns52nSeE95X7+KZgyJEds/2CgsdvOXPtpVO7KGV0J51u2ly20LPuC3TVrbvOGStRIJp6Q==
+    size: 52076950
+    blockMapSize: 56026
+path: electron-2048-0.0.0-dev-x86_64.AppImage
+sha512: CmMnAbPN0ct5I5gE9Ns52nSeE95X7+KZgyJEds/2CgsdvOXPtpVO7KGV0J51u2ly20LPuC3TVrbvOGStRIJp6Q==
+releaseDate: '2018-01-29T12:16:01.162Z'
